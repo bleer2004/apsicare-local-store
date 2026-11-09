@@ -2,6 +2,13 @@
 
 ## Resumo
 
+Vídeo para demonstração: https://youtube.com/shorts/xuCav3pYsZI?is=Ky4zcbDjKX_nDTSd
+
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/b909a798-48b8-4973-adf0-c1c280170162" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/918f39f8-3c8f-4325-8d6a-50d3d7250125" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/7c227e65-c9d6-4adc-9cfd-dc414f75dc5e" />
+
+
 O **Apsicare Local Store** é uma prova de conceito acadêmica desenvolvida no
 contexto do TCC Apsicare. O projeto demonstra a implementação de persistência
 local de registros relacionados ao estresse em um aplicativo móvel, utilizando
